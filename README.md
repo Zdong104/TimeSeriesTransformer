@@ -13,13 +13,13 @@ This repository contains a simplified implementation of a Transformer model for 
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/transformer-time-series-prediction.git
-    cd transformer-time-series-prediction
+    git clone https://github.com/Zdong104/TimeSeriesTransformer.git
+    cd TimeSeriesTransformer
     ```
 
 2. Install Miniconda:
 
-    Miniconda is a minimal installer for conda. You can download and install it from the [Miniconda website](https://docs.conda.io/en/latest/miniconda.html).
+    Miniconda is a minimal installer for conda. You can download and install it from the [Miniconda website](https://docs.conda.io/en/latest/miniconda.html). Scroll to the button, use Quick install. 
 
     After downloading the installer, run it and follow the instructions to complete the installation.
 
